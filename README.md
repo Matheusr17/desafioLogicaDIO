@@ -26,7 +26,7 @@ O objetivo principal é criar um programa que leia o **nome** e a **quantidade d
 
 - **Variáveis**: Armazenamento de dados do herói (nome e XP).
 - **Estruturas de Decisão** (`if / else if / else`): Classificação do nível com base no XP.
-- **Entrada e Saída de Dados**: Leitura dos dados via consola com `Scanner` e exibição da mensagem final.
+- **Entrada e Saída de Dados**: Leitura dos dados via console com `Scanner` e exibição da mensagem final.
 
 ## 🛠️ Como Executar o Projeto
 
