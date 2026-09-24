@@ -32,4 +32,4 @@ O objetivo principal é criar um programa que leia o **nome** e a **quantidade d
 
 1. **Clona o repositório:**
    ```bash
-   git clone [https://github.com/teu-usuario/nome-do-repositorio.git](https://github.com/teu-usuario/nome-do-repositorio.git)
+   git clone https://github.com/Matheusr17/desafioLogicaDIO
